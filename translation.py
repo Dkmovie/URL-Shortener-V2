@@ -64,8 +64,8 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/R_KOHLI)
+`👨‍💻 Developer:` [RAVI KOHLI](t.me/R_KOHLI)
+`📢 Support:` [DK_BOT](https://t.me/movie_a1)
 `🌐 Source Code:` [RAVI KOHLI](https://t.me/R_KOHLI)
 """
 
