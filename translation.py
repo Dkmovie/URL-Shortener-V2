@@ -24,7 +24,7 @@ HELP_MESSAGE = """Hey there! My name is {firstname} and I'm a link convertor and
 
 I have a ton of handy features to help you out, such as:
 
-- [Hyperlink](https://t.me/{username}) support 🔗
+- [RAVI KOHLI](https://t.me/{username}) support 🔗
 - Button conversion support 🔘
 - Domain inclusion and exclusion options 🌐
 - Header and footer text support 📝
@@ -65,8 +65,8 @@ ABOUT_TEXT = """
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
 `👨‍💻 Developer:` [Dev](t.me/ask_admin001)
-`📢 Support:` [Talk Bot](https://t.me/ask_admin001)
-`🌐 Source Code:` [GitHub](https://github.com/kevinnadar22/URL-Shortener-V2/)
+`📢 Support:` [Talk Bot](https://t.me/R_KOHLI)
+`🌐 Source Code:` [RAVI KOHLI](https://t.me/R_KOHLI)
 """
 
 
